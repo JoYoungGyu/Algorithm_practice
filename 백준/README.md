@@ -3,3 +3,4 @@
 three_dice : [2480]주사위 세개 <br>
 GuGuDan : [2739] 구구단<br>
 AB_plus : [10950] A+B -3 <br>
+RECIPT : [25304] 영수증 <br>
