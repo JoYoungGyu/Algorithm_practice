@@ -14,3 +14,4 @@ AB_4 : [10951] : A+B-4 <br>
 count_Value : [10807] : 개수 세기 <br>
 MinX : [10871] : X보다 작은 수 <br>
 MinMax : [10818] : 최소,최대 <br>
+FindMax : [2562] : 최댓값 <br>
