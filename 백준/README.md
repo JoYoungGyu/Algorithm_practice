@@ -16,3 +16,4 @@ MinX : [10871] : X보다 작은 수 <br>
 MinMax : [10818] : 최소,최대 <br>
 FindMax : [2562] : 최댓값 <br>
 Insert_ball [10810] : 공 넣기<br>
+change_Ball [10813] : 공 바꾸기 <br>
