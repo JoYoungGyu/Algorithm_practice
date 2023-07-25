@@ -18,3 +18,4 @@ FindMax : [2562] : 최댓값 <br>
 Insert_ball [10810] : 공 넣기<br>
 change_Ball [10813] : 공 바꾸기 <br>
 Attend [5597] : 과제 안내신 분..? <br>
+Mod [3052] : 나머지 <br>
