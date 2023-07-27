@@ -20,3 +20,4 @@ change_Ball [10813] : 공 바꾸기 <br>
 Attend [5597] : 과제 안내신 분..? <br>
 Mod [3052] : 나머지 <br>
 Reverse_Array [10811] : 바구니 뒤집기 <br>
+Array_avg [1546] : 평균
