@@ -26,3 +26,4 @@ BJ11654 [11654] : 아스키코드 <br>
 BJ11720 [11720] : 숫자의 합 <br>
 BJ10809 [10809] : 알파벳 찾기 <br>
 BJ2675_Scanner [2675] : Scanner를 이용한 문자열 반복 풀이 <br>
+BJ2675_Buffer [2675] : BufferedReader 이용한 문자열 반복 풀이 <br>
