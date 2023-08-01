@@ -29,3 +29,4 @@ BJ2675_Scanner [2675] : Scanner를 이용한 문자열 반복 풀이 <br>
 BJ2675_Buffer [2675] : BufferedReader 이용한 문자열 반복 풀이 <br>
 BJ1152 : [1152] : 단어의 개수 <br>
 BJ2908 : [2908] : 상수 <br>
+BJ5622 : [5622] : 다이얼 <br>
